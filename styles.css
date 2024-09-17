@@ -16,6 +16,12 @@ body {
         list-style: none;
         text-decoration-line: none;
       }
+a{
+	text-decoration-line:none;
+}
+li{
+	list-style-type:none;
+}
 
       .mediaContainer {
         display: flex;
