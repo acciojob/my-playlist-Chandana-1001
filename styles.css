@@ -27,8 +27,8 @@ body {
         border-radius: 10px;
       }
 
-      .mediaContainer video,
-      .mediaContainer audio {
+      .player_one,
+      .player_two{
         width: 100%;
 		  background-color:rgb(255,255,255);
 		  padding:50px;
